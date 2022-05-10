@@ -1,2 +1,2 @@
 # GAMEZERO
-CPS on WinForms
+Игра стратегия, на WinForms, в фентези сеттинге
